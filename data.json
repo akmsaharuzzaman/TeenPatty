@@ -1,0 +1,2074 @@
+[
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "AC",
+        "rank": 1,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "AS",
+        "rank": 2,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AC",
+        "cardC": "AS",
+        "rank": 3,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "AD",
+        "cardB": "AC",
+        "cardC": "AS",
+        "rank": 4,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "KH",
+        "cardB": "KD",
+        "cardC": "KC",
+        "rank": 5,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "KH",
+        "cardB": "KD",
+        "cardC": "KS",
+        "rank": 6,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "KH",
+        "cardB": "KC",
+        "cardC": "KS",
+        "rank": 7,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "KD",
+        "cardB": "KC",
+        "cardC": "KS",
+        "rank": 8,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "QD",
+        "cardC": "QC",
+        "rank": 9,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "QD",
+        "cardC": "QS",
+        "rank": 10,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "QC",
+        "cardC": "QS",
+        "rank": 11,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "QD",
+        "cardB": "QC",
+        "cardC": "QS",
+        "rank": 12,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "JD",
+        "cardC": "JC",
+        "rank": 13,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "JD",
+        "cardC": "JS",
+        "rank": 14,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "JC",
+        "cardC": "JS",
+        "rank": 15,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "JD",
+        "cardB": "JC",
+        "cardC": "JS",
+        "rank": 16,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "10C",
+        "rank": 17,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "10S",
+        "rank": 18,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10C",
+        "cardC": "10S",
+        "rank": 19,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "10D",
+        "cardB": "10C",
+        "cardC": "10S",
+        "rank": 20,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "9H",
+        "cardB": "9D",
+        "cardC": "9C",
+        "rank": 21,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "9H",
+        "cardB": "9D",
+        "cardC": "9S",
+        "rank": 22,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "9H",
+        "cardB": "9C",
+        "cardC": "9S",
+        "rank": 23,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "9D",
+        "cardB": "9C",
+        "cardC": "9S",
+        "rank": 24,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8D",
+        "cardC": "8C",
+        "rank": 25,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8D",
+        "cardC": "8S",
+        "rank": 26,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8C",
+        "cardC": "8S",
+        "rank": 27,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "8D",
+        "cardB": "8C",
+        "cardC": "8S",
+        "rank": 28,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "7H",
+        "cardB": "7D",
+        "cardC": "7C",
+        "rank": 29,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "7H",
+        "cardB": "7D",
+        "cardC": "7S",
+        "rank": 30,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "7H",
+        "cardB": "7C",
+        "cardC": "7S",
+        "rank": 31,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "7D",
+        "cardB": "7C",
+        "cardC": "7S",
+        "rank": 32,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "6H",
+        "cardB": "6D",
+        "cardC": "6C",
+        "rank": 33,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "6H",
+        "cardB": "6D",
+        "cardC": "6S",
+        "rank": 34,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "6H",
+        "cardB": "6C",
+        "cardC": "6S",
+        "rank": 35,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "6D",
+        "cardB": "6C",
+        "cardC": "6S",
+        "rank": 36,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "5H",
+        "cardB": "5D",
+        "cardC": "5C",
+        "rank": 37,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "5H",
+        "cardB": "5D",
+        "cardC": "5S",
+        "rank": 38,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "5H",
+        "cardB": "5C",
+        "cardC": "5S",
+        "rank": 39,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "5D",
+        "cardB": "5C",
+        "cardC": "5S",
+        "rank": 40,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "4C",
+        "rank": 41,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "4S",
+        "rank": 42,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4C",
+        "cardC": "4S",
+        "rank": 43,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "4D",
+        "cardB": "4C",
+        "cardC": "4S",
+        "rank": 44,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "3H",
+        "cardB": "3D",
+        "cardC": "3C",
+        "rank": 45,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "3H",
+        "cardB": "3D",
+        "cardC": "3S",
+        "rank": 46,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "3H",
+        "cardB": "3C",
+        "cardC": "3S",
+        "rank": 47,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "3D",
+        "cardB": "3C",
+        "cardC": "3S",
+        "rank": 48,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "2C",
+        "rank": 49,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "2S",
+        "rank": 50,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2C",
+        "cardC": "2S",
+        "rank": 51,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "2D",
+        "cardB": "2C",
+        "cardC": "2S",
+        "rank": 52,
+        "hand": "Trail"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "KH",
+        "cardC": "QH",
+        "rank": 53,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "KH",
+        "cardB": "QH",
+        "cardC": "JH",
+        "rank": 54,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "JH",
+        "cardC": "10H",
+        "rank": 55,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "10H",
+        "cardC": "9H",
+        "rank": 56,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "9H",
+        "cardC": "8H",
+        "rank": 57,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "9H",
+        "cardB": "8H",
+        "cardC": "7H",
+        "rank": 58,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "7H",
+        "cardC": "6H",
+        "rank": 59,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "7H",
+        "cardB": "6H",
+        "cardC": "5H",
+        "rank": 60,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "6H",
+        "cardB": "5H",
+        "cardC": "4H",
+        "rank": 61,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "5H",
+        "cardB": "4H",
+        "cardC": "3H",
+        "rank": 62,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "3H",
+        "cardC": "2H",
+        "rank": 63,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "AD",
+        "cardB": "KD",
+        "cardC": "QD",
+        "rank": 64,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "KD",
+        "cardB": "QD",
+        "cardC": "JD",
+        "rank": 65,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "QD",
+        "cardB": "JD",
+        "cardC": "10D",
+        "rank": 66,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "JD",
+        "cardB": "10D",
+        "cardC": "9D",
+        "rank": 67,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "10D",
+        "cardB": "9D",
+        "cardC": "8D",
+        "rank": 68,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "9D",
+        "cardB": "8D",
+        "cardC": "7D",
+        "rank": 69,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "8D",
+        "cardB": "7D",
+        "cardC": "6D",
+        "rank": 70,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "7D",
+        "cardB": "6D",
+        "cardC": "5D",
+        "rank": 71,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "6D",
+        "cardB": "5D",
+        "cardC": "4D",
+        "rank": 72,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "5D",
+        "cardB": "4D",
+        "cardC": "3D",
+        "rank": 73,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "4D",
+        "cardB": "3D",
+        "cardC": "2D",
+        "rank": 74,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "AC",
+        "cardB": "KC",
+        "cardC": "QC",
+        "rank": 75,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "KC",
+        "cardB": "QC",
+        "cardC": "JC",
+        "rank": 76,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "QC",
+        "cardB": "JC",
+        "cardC": "10C",
+        "rank": 77,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "JC",
+        "cardB": "10C",
+        "cardC": "9C",
+        "rank": 78,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "10C",
+        "cardB": "9C",
+        "cardC": "8C",
+        "rank": 79,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "9C",
+        "cardB": "8C",
+        "cardC": "7C",
+        "rank": 80,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "8C",
+        "cardB": "7C",
+        "cardC": "6C",
+        "rank": 81,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "7C",
+        "cardB": "6C",
+        "cardC": "5C",
+        "rank": 82,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "6C",
+        "cardB": "5C",
+        "cardC": "4C",
+        "rank": 83,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "5C",
+        "cardB": "4C",
+        "cardC": "3C",
+        "rank": 84,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "4C",
+        "cardB": "3C",
+        "cardC": "2C",
+        "rank": 85,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "AS",
+        "cardB": "KS",
+        "cardC": "QS",
+        "rank": 86,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "KS",
+        "cardB": "QS",
+        "cardC": "JS",
+        "rank": 87,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "QS",
+        "cardB": "JS",
+        "cardC": "10S",
+        "rank": 88,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "JS",
+        "cardB": "10S",
+        "cardC": "9S",
+        "rank": 89,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "10S",
+        "cardB": "9S",
+        "cardC": "8S",
+        "rank": 90,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "9S",
+        "cardB": "8S",
+        "cardC": "7S",
+        "rank": 91,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "8S",
+        "cardB": "7S",
+        "cardC": "6S",
+        "rank": 92,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "7S",
+        "cardB": "6S",
+        "cardC": "5S",
+        "rank": 93,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "6S",
+        "cardB": "5S",
+        "cardC": "4S",
+        "rank": 94,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "5S",
+        "cardB": "4S",
+        "cardC": "3S",
+        "rank": 95,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "4S",
+        "cardB": "3S",
+        "cardC": "2S",
+        "rank": 96,
+        "hand": "Pure Sequence"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "KD",
+        "cardC": "QC",
+        "rank": 97,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "AD",
+        "cardB": "KC",
+        "cardC": "QS",
+        "rank": 98,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "AC",
+        "cardB": "KS",
+        "cardC": "QH",
+        "rank": 99,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "AS",
+        "cardB": "KH",
+        "cardC": "QD",
+        "rank": 100,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "KH",
+        "cardB": "QD",
+        "cardC": "JC",
+        "rank": 101,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "KD",
+        "cardB": "QC",
+        "cardC": "JS",
+        "rank": 102,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "KC",
+        "cardB": "QS",
+        "cardC": "JH",
+        "rank": 103,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "KS",
+        "cardB": "QH",
+        "cardC": "JD",
+        "rank": 104,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "JD",
+        "cardC": "10C",
+        "rank": 105,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "QD",
+        "cardB": "JC",
+        "cardC": "10S",
+        "rank": 106,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "QC",
+        "cardB": "JS",
+        "cardC": "10H",
+        "rank": 107,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "QS",
+        "cardB": "JH",
+        "cardC": "10D",
+        "rank": 108,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "10D",
+        "cardC": "9C",
+        "rank": 109,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "JD",
+        "cardB": "10C",
+        "cardC": "9S",
+        "rank": 110,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "JC",
+        "cardB": "10S",
+        "cardC": "9H",
+        "rank": 111,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "JS",
+        "cardB": "10H",
+        "cardC": "9D",
+        "rank": 112,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "9D",
+        "cardC": "8C",
+        "rank": 113,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "10D",
+        "cardB": "9C",
+        "cardC": "8S",
+        "rank": 114,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "10C",
+        "cardB": "9S",
+        "cardC": "8H",
+        "rank": 115,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "10S",
+        "cardB": "9H",
+        "cardC": "8D",
+        "rank": 116,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "9H",
+        "cardB": "8D",
+        "cardC": "7C",
+        "rank": 117,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "9D",
+        "cardB": "8C",
+        "cardC": "7S",
+        "rank": 118,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "9C",
+        "cardB": "8S",
+        "cardC": "7H",
+        "rank": 119,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "9S",
+        "cardB": "8H",
+        "cardC": "7D",
+        "rank": 120,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "7D",
+        "cardC": "6C",
+        "rank": 121,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "8D",
+        "cardB": "7C",
+        "cardC": "6S",
+        "rank": 122,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "8C",
+        "cardB": "7S",
+        "cardC": "6H",
+        "rank": 123,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "8S",
+        "cardB": "7H",
+        "cardC": "6D",
+        "rank": 124,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "7H",
+        "cardB": "6D",
+        "cardC": "5C",
+        "rank": 125,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "7D",
+        "cardB": "6C",
+        "cardC": "5S",
+        "rank": 126,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "7C",
+        "cardB": "6S",
+        "cardC": "5H",
+        "rank": 127,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "7S",
+        "cardB": "6H",
+        "cardC": "5D",
+        "rank": 128,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "6H",
+        "cardB": "5D",
+        "cardC": "4C",
+        "rank": 129,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "6D",
+        "cardB": "5C",
+        "cardC": "4S",
+        "rank": 130,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "6C",
+        "cardB": "5S",
+        "cardC": "4H",
+        "rank": 131,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "6S",
+        "cardB": "5H",
+        "cardC": "4D",
+        "rank": 132,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "5H",
+        "cardB": "4D",
+        "cardC": "3C",
+        "rank": 133,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "5D",
+        "cardB": "4C",
+        "cardC": "3S",
+        "rank": 134,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "5C",
+        "cardB": "4S",
+        "cardC": "3H",
+        "rank": 135,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "5S",
+        "cardB": "4H",
+        "cardC": "3D",
+        "rank": 136,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "3D",
+        "cardC": "2C",
+        "rank": 137,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "4D",
+        "cardB": "3C",
+        "cardC": "2S",
+        "rank": 138,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "4C",
+        "cardB": "3S",
+        "cardC": "2H",
+        "rank": 139,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "4S",
+        "cardB": "3H",
+        "cardC": "2D",
+        "rank": 140,
+        "hand": "Sequence"
+    },
+    {
+        "cardA": "AD",
+        "cardB": "KD",
+        "cardC": "JD",
+        "rank": 141,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AC",
+        "cardB": "KC",
+        "cardC": "10C",
+        "rank": 142,
+        "hand": "Color"
+    },
+    {
+        "cardA": "KS",
+        "cardB": "JS",
+        "cardC": "9S",
+        "rank": 143,
+        "hand": "Color"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "10H",
+        "cardC": "8H",
+        "rank": 144,
+        "hand": "Color"
+    },
+    {
+        "cardA": "JD",
+        "cardB": "9D",
+        "cardC": "7D",
+        "rank": 145,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10C",
+        "cardB": "8C",
+        "cardC": "6C",
+        "rank": 146,
+        "hand": "Color"
+    },
+    {
+        "cardA": "9S",
+        "cardB": "7S",
+        "cardC": "5S",
+        "rank": 147,
+        "hand": "Color"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "6H",
+        "cardC": "4H",
+        "rank": 148,
+        "hand": "Color"
+    },
+    {
+        "cardA": "7D",
+        "cardB": "5D",
+        "cardC": "3D",
+        "rank": 149,
+        "hand": "Color"
+    },
+    {
+        "cardA": "6C",
+        "cardB": "4C",
+        "cardC": "2C",
+        "rank": 150,
+        "hand": "Color"
+    },
+    {
+        "cardA": "5S",
+        "cardB": "3S",
+        "cardC": "2S",
+        "rank": 151,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9H",
+        "cardC": "6H",
+        "rank": 152,
+        "hand": "Color"
+    },
+    {
+        "cardA": "KD",
+        "cardB": "8D",
+        "cardC": "5D",
+        "rank": 153,
+        "hand": "Color"
+    },
+    {
+        "cardA": "QC",
+        "cardB": "7C",
+        "cardC": "4C",
+        "rank": 154,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10S",
+        "cardB": "JS",
+        "cardC": "4S",
+        "rank": 155,
+        "hand": "Color"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "KH",
+        "cardC": "QH",
+        "rank": 156,
+        "hand": "Color"
+    },
+    {
+        "cardA": "KD",
+        "cardB": "4D",
+        "cardC": "10D",
+        "rank": 157,
+        "hand": "Color"
+    },
+    {
+        "cardA": "6C",
+        "cardB": "5C",
+        "cardC": "3C",
+        "rank": 158,
+        "hand": "Color"
+    },
+    {
+        "cardA": "QS",
+        "cardB": "3S",
+        "cardC": "KS",
+        "rank": 159,
+        "hand": "Color"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "10H",
+        "cardC": "AH",
+        "rank": 160,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AD",
+        "cardB": "9D",
+        "cardC": "10D",
+        "rank": 161,
+        "hand": "Color"
+    },
+    {
+        "cardA": "7C",
+        "cardB": "3C",
+        "cardC": "8C",
+        "rank": 162,
+        "hand": "Color"
+    },
+    {
+        "cardA": "5S",
+        "cardB": "QS",
+        "cardC": "8S",
+        "rank": 163,
+        "hand": "Color"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "KH",
+        "cardC": "3H",
+        "rank": 164,
+        "hand": "Color"
+    },
+    {
+        "cardA": "7D",
+        "cardB": "8D",
+        "cardC": "5D",
+        "rank": 165,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AC",
+        "cardB": "KC",
+        "cardC": "3C",
+        "rank": 166,
+        "hand": "Color"
+    },
+    {
+        "cardA": "6S",
+        "cardB": "3S",
+        "cardC": "KS",
+        "rank": 167,
+        "hand": "Color"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "9H",
+        "cardC": "3H",
+        "rank": 168,
+        "hand": "Color"
+    },
+    {
+        "cardA": "QD",
+        "cardB": "2D",
+        "cardC": "4D",
+        "rank": 169,
+        "hand": "Color"
+    },
+    {
+        "cardA": "6C",
+        "cardB": "3C",
+        "cardC": "7C",
+        "rank": 170,
+        "hand": "Color"
+    },
+    {
+        "cardA": "5S",
+        "cardB": "10S",
+        "cardC": "JS",
+        "rank": 171,
+        "hand": "Color"
+    },
+    {
+        "cardA": "JH",
+        "cardB": "7H",
+        "cardC": "10H",
+        "rank": 172,
+        "hand": "Color"
+    },
+    {
+        "cardA": "JD",
+        "cardB": "3D",
+        "cardC": "2D",
+        "rank": 173,
+        "hand": "Color"
+    },
+    {
+        "cardA": "KC",
+        "cardB": "JC",
+        "cardC": "4C",
+        "rank": 174,
+        "hand": "Color"
+    },
+    {
+        "cardA": "KS",
+        "cardB": "3S",
+        "cardC": "JS",
+        "rank": 175,
+        "hand": "Color"
+    },
+    {
+        "cardA": "9H",
+        "cardB": "JH",
+        "cardC": "3H",
+        "rank": 176,
+        "hand": "Color"
+    },
+    {
+        "cardA": "KD",
+        "cardB": "AD",
+        "cardC": "2D",
+        "rank": 177,
+        "hand": "Color"
+    },
+    {
+        "cardA": "3C",
+        "cardB": "JC",
+        "cardC": "AC",
+        "rank": 178,
+        "hand": "Color"
+    },
+    {
+        "cardA": "4S",
+        "cardB": "2S",
+        "cardC": "10S",
+        "rank": 179,
+        "hand": "Color"
+    },
+    {
+        "cardA": "QH",
+        "cardB": "AH",
+        "cardC": "3H",
+        "rank": 180,
+        "hand": "Color"
+    },
+    {
+        "cardA": "3D",
+        "cardB": "KD",
+        "cardC": "2D",
+        "rank": 181,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AC",
+        "cardB": "6C",
+        "cardC": "7C",
+        "rank": 182,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10S",
+        "cardB": "AS",
+        "cardC": "8S",
+        "rank": 183,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "AH",
+        "cardC": "2H",
+        "rank": 184,
+        "hand": "Color"
+    },
+    {
+        "cardA": "9D",
+        "cardB": "QD",
+        "cardC": "KD",
+        "rank": 185,
+        "hand": "Color"
+    },
+    {
+        "cardA": "2C",
+        "cardB": "9C",
+        "cardC": "8C",
+        "rank": 186,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10S",
+        "cardB": "8S",
+        "cardC": "7S",
+        "rank": 187,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "3H",
+        "cardC": "KH",
+        "rank": 188,
+        "hand": "Color"
+    },
+    {
+        "cardA": "10D",
+        "cardB": "5D",
+        "cardC": "3D",
+        "rank": 189,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AC",
+        "cardB": "8C",
+        "cardC": "QC",
+        "rank": 190,
+        "hand": "Color"
+    },
+    {
+        "cardA": "6S",
+        "cardB": "7S",
+        "cardC": "9S",
+        "rank": 191,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10H",
+        "cardC": "4H",
+        "rank": 192,
+        "hand": "Color"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "10C",
+        "rank": 193,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "4C",
+        "rank": 194,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "2C",
+        "rank": 195,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "8C",
+        "rank": 196,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "9C",
+        "rank": 197,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "7C",
+        "rank": 198,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "3C",
+        "rank": 199,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "6C",
+        "rank": 200,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "5C",
+        "rank": 201,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "QC",
+        "rank": 202,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "KC",
+        "rank": 203,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "AD",
+        "cardC": "JC",
+        "rank": 204,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "AC",
+        "rank": 205,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "4C",
+        "rank": 206,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "2C",
+        "rank": 207,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "8C",
+        "rank": 208,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "9C",
+        "rank": 209,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "7C",
+        "rank": 210,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "3C",
+        "rank": 211,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "6C",
+        "rank": 212,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "5C",
+        "rank": 213,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "QC",
+        "rank": 214,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "KC",
+        "rank": 215,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "10H",
+        "cardB": "10D",
+        "cardC": "JC",
+        "rank": 216,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "AC",
+        "rank": 217,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "10C",
+        "rank": 218,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "2C",
+        "rank": 219,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "8C",
+        "rank": 220,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "9C",
+        "rank": 221,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "7C",
+        "rank": 222,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "3C",
+        "rank": 223,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "6C",
+        "rank": 224,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "5C",
+        "rank": 225,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "QC",
+        "rank": 226,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "KC",
+        "rank": 227,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "4H",
+        "cardB": "4D",
+        "cardC": "JC",
+        "rank": 228,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "AC",
+        "rank": 229,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "10C",
+        "rank": 230,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "4C",
+        "rank": 231,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "8C",
+        "rank": 232,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "9C",
+        "rank": 233,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "7C",
+        "rank": 234,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "3C",
+        "rank": 235,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "6C",
+        "rank": 236,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "5C",
+        "rank": 237,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "QC",
+        "rank": 238,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "KC",
+        "rank": 239,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "2H",
+        "cardB": "2D",
+        "cardC": "JC",
+        "rank": 240,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8D",
+        "cardC": "AC",
+        "rank": 241,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8D",
+        "cardC": "10C",
+        "rank": 242,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8D",
+        "cardC": "4C",
+        "rank": 243,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "8H",
+        "cardB": "8D",
+        "cardC": "2C",
+        "rank": 244,
+        "hand": "Pair"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "4C",
+        "rank": 245,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "2C",
+        "rank": 246,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "8C",
+        "rank": 247,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "9C",
+        "rank": 248,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "7C",
+        "rank": 249,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "3C",
+        "rank": 250,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "6C",
+        "rank": 251,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "5C",
+        "rank": 252,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "QC",
+        "rank": 253,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "KC",
+        "rank": 254,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "10D",
+        "cardC": "JC",
+        "rank": 255,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "2C",
+        "rank": 256,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "8C",
+        "rank": 257,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "9C",
+        "rank": 258,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "7C",
+        "rank": 259,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "3C",
+        "rank": 260,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "6C",
+        "rank": 261,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "5C",
+        "rank": 262,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "QC",
+        "rank": 263,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "KC",
+        "rank": 264,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "4D",
+        "cardC": "JC",
+        "rank": 265,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "8C",
+        "rank": 266,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "9C",
+        "rank": 267,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "7C",
+        "rank": 268,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "3C",
+        "rank": 269,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "6C",
+        "rank": 270,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "5C",
+        "rank": 271,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "QC",
+        "rank": 272,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "KC",
+        "rank": 273,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "2D",
+        "cardC": "JC",
+        "rank": 274,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "9C",
+        "rank": 275,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "7C",
+        "rank": 276,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "3C",
+        "rank": 277,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "6C",
+        "rank": 278,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "5C",
+        "rank": 279,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "QC",
+        "rank": 280,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "KC",
+        "rank": 281,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "8D",
+        "cardC": "JC",
+        "rank": 282,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "7C",
+        "rank": 283,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "3C",
+        "rank": 284,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "6C",
+        "rank": 285,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "5C",
+        "rank": 286,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "QC",
+        "rank": 287,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "KC",
+        "rank": 288,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "9D",
+        "cardC": "JC",
+        "rank": 289,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "7D",
+        "cardC": "3C",
+        "rank": 290,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "7D",
+        "cardC": "6C",
+        "rank": 291,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "7D",
+        "cardC": "5C",
+        "rank": 292,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "7D",
+        "cardC": "QC",
+        "rank": 293,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "7D",
+        "cardC": "KC",
+        "rank": 294,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "7D",
+        "cardC": "JC",
+        "rank": 295,
+        "hand": "High Card"
+    },
+    {
+        "cardA": "AH",
+        "cardB": "3D",
+        "cardC": "6C",
+        "rank": 296,
+        "hand": "High Card"
+    }
+]
