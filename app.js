@@ -155,7 +155,8 @@ function Room(roomKey) {
 
     const players = room.clients.map((client, index) => ({
         id: client.id,
-        serialNumber: index + 1
+        serialNumber: index + 1,
+        name: client.ownName
     }));
 
     let ready = false;
