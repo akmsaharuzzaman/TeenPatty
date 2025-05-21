@@ -117,16 +117,19 @@ function CreateAndJoinRoom(ws, requestedRoomKeyOrName, userLength) {
         return;
     }
 
-    const room = rooms[targetRoomKey];
-    if (!room.clients.includes(ws)) {
-        room.clients.push(ws);
-        ws.room = targetRoomKey;
-        if (room.clients.length >= room.info.maxUsers) {
-            room.info.locked = true;
-        }
-        Room(targetRoomKey);
-    } else {
-    }
+    const randomInt = getRandomInt(500, 1000) + room.clients.length;
+    setTimeout(() => {
+        const room = rooms[targetRoomKey];
+        if (!room.clients.includes(ws)) {
+            room.clients.push(ws);
+            ws.room = targetRoomKey;
+            if (room.clients.length >= room.info.maxUsers) {
+                room.info.locked = true;
+            }
+            Room(targetRoomKey);
+        } else {
+            }
+    }, randomInt);
 }
 
 function CreateRoom(ws, roomName, maxUsers) {
