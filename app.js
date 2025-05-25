@@ -44,6 +44,22 @@ serverConnect.wssExport().on('connection', function (ws) {
         }
     });
 
+    sgdsoft.SGDSOFT_WEBSOCKET_On("SGDSOFT@RequestRoomList", ws, () => {
+        const roomList = [];
+
+        for (const key in rooms) {
+            const room = rooms[key];
+            roomList.push({
+                roomKey: room.info.roomKey,
+                roomName: room.info.roomName,
+                clientsLength: room.clients.length,
+                maxUsers: room.info.maxUsers,
+                locked: room.info.locked
+            });
+        }
+        sgdsoft.SGDSOFT_WEBSOCKET_Emit("SGDSOFT@RoomListUpdate", roomList, ws);
+    });
+
     const events = [
         'SGDSOFT@GetCards',
         'SGDSOFT@BetAmount',
